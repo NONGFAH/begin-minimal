@@ -4,7 +4,7 @@ doge-1d5
 @static
 
 @http
-
+get /
 
 @tables
 data
